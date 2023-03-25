@@ -7,7 +7,7 @@
         "Save restricted content",
         "bot"
     ],
-    "repository": "https://github.com/Arab_Z/SaveRestrictedContentBot",
+    "repository": "https://github.com/Arabic_Z/SaveRestrictedContentBot",
     "website": "",
     "success_url": "https://t.me/ZedThon",
     "env": {
